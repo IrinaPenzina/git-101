@@ -1,0 +1,30 @@
+body {
+	font-family: Helvetica;
+	background-color: #684307;
+}
+
+h1 {
+	text-align: center;
+	color: #ffffff;
+}
+
+h2{
+	text-align: center;
+	color: #ffffff;
+}
+
+img {
+	position: absolute;
+   	top: 60%;
+   	left: 50%;
+   	width: 300px;
+   	height: 300px;
+   	margin-top: -150px; /* Half the height */
+   	margin-left: -150px; /* Half the width */
+}
+
+h3 {
+	text-align: left;
+	margin-top: 33%;
+	color: #FFFFFF;
+}
